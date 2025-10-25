@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**lakalex/lakalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BIO :)
+I am a Computer Science student from Bucharest, Romania.
+
+- **Studying** at University POLITEHNICA of Bucharest
+- Currently learning programming languages: `C`, `C++`, `Python`, `Java`.
+- Looking forward to collaborate on **Open Source** projects
+
+STATS
+
+<p>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lakalex&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakalex&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
